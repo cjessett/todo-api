@@ -18,3 +18,6 @@ then create a table called 'Todo'
 run the node server
 
 `npm start`
+
+
+Make sure you are running the [client](https://github.com/cjessett/todo-client) app as well
